@@ -19,4 +19,4 @@ A Point Cloud Renderer Plugin for CloudCompare
  ### SuperVoxel
  ![alt text](demo/SuperVoxel.JPG)
  ### Euclidean Cluster
- ![alt text](demo/Euclidean Cluster.JPG)
+ ![alt text](demo/EuclideanCluster.JPG)
