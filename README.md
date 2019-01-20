@@ -1,5 +1,5 @@
 # CloudRenderer
-A Point Cloud Renderer Plugin for CloudCompare 
+A Integration Point Cloud Renderer Plugin for CloudCompare. (Under Development)
 
 ## Demo
  ### Intensity
@@ -15,7 +15,7 @@ A Point Cloud Renderer Plugin for CloudCompare
  ### Spherical
  ![alt text](demo/Spherical.JPG)
  ### Curvature
- 
+  ![alt text](demo/Curvature.JPG)
  ### SuperVoxel
  ![alt text](demo/SuperVoxel.JPG)
  ### Euclidean Cluster
